@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DonasiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/daftar"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:background="#ffff00"/>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/user"
+        android:textSize="20sp"
+        android:layout_marginTop="@dimen/activity_vertical_layout" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/email"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"/>
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/don"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"/>
+    <TextView
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tambah"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"/>
+    <EditText
+        android:layout_width="380dp"
+        android:layout_height="130dp"
+        android:background="@color/colorLightGrey"
+        android:inputType="text"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:text="@string/bayar"
+        android:textColor="#141414"/>
+
+</LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

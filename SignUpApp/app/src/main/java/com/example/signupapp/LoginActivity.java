@@ -1,4 +1,4 @@
-package com.example.myviewandviews;
+package com.example.signupapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,21 +7,24 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
 
-    Button btnDonasi;
+    Button btnRegister;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        btnDonasi = findViewById(R.id.btnDonasi);
-        btnDonasi.setOnClickListener(this);
+        setContentView(R.layout.activity_login);
+
+        btnRegister = findViewById(R.id.btnRegister);
+        btnRegister.setOnClickListener(this);
     }
+
     @Override
     public void onClick(View v) {
         switch (v.getId()){
-            case R.id.btnDonasi:
-                Intent moveRegister = new Intent(MainActivity.this, DonasiActivity.class);
+            case R.id.btnRegister:
+                Intent moveRegister = new Intent(LoginActivity.this, MainActivity.class);
                 startActivity(moveRegister);
                 break;
         }

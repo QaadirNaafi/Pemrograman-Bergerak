@@ -45,18 +45,18 @@
             android:layout_marginLeft="@dimen/activity_horizontal_layout"
             android:layout_marginTop="@dimen/activity_vertical_layout"
             android:layout_marginRight="@dimen/activity_horizontal_layout"
-            android:layout_marginBottom="@dimen/activity_vertical_layout"
+            android:layout_marginBottom="10dp"
             android:textAlignment="center"
             android:text="@string/name"
-            android:textSize="20sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="8sp"
+            android:paddingTop="4sp"
             android:layout_marginLeft="@dimen/activity_horizontal_layout"
             android:layout_marginRight="@dimen/activity_horizontal_layout"
-            android:layout_marginBottom="@dimen/activity_vertical_layout"
+            android:layout_marginBottom="10dp"
             android:text="Presiden Ke 3 Indonesia" />
         <TextView
             android:layout_width="match_parent"
@@ -174,7 +174,15 @@
                 android:layout_toEndOf="@id/r80"
                 android:layout_toRightOf="@id/r80"
                 android:text="@string/ajakan"/>
+
         </RelativeLayout>
+            <Button
+                android:id="@+id/btnDonasi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Donasi"
+                android:textColor="#141414"/>
     </LinearLayout>
 </ScrollView>
 
