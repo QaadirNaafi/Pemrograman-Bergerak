@@ -1,3 +1,5 @@
-![Screenshot_2020-01-03-13-08-52-90](https://user-images.githubusercontent.com/44739367/71709683-47206c00-2e2b-11ea-86f7-60ef2dd99b1a.png)
-![Screenshot_2020-01-03-13-09-15-50](https://user-images.githubusercontent.com/44739367/71709685-47b90280-2e2b-11ea-9c2e-faddea122e74.png)
-![Screenshot_2020-01-03-13-08-47-97](https://user-images.githubusercontent.com/44739367/71709686-48519900-2e2b-11ea-9ea9-24fccae1eb64.png)
+![WhatsApp Image 2020-01-08 at 00 35 16](https://user-images.githubusercontent.com/44739367/71916632-f4d7a600-31b0-11ea-8fe7-ef6fba4d7a5f.jpeg)
+![WhatsApp Image 2020-01-08 at 00 34 52](https://user-images.githubusercontent.com/44739367/71916643-facd8700-31b0-11ea-892b-fd1c72859347.jpeg)
+![WhatsApp Image 2020-01-08 at 00 35 15](https://user-images.githubusercontent.com/44739367/71916644-fb661d80-31b0-11ea-944f-64634c4c6772.jpeg)
+![WhatsApp Image 2020-01-08 at 00 35 16(1)](https://user-images.githubusercontent.com/44739367/71916645-fb661d80-31b0-11ea-938d-9278e8ac3ab4.jpeg)
+![WhatsApp Image 2020-01-08 at 00 35 16(2)](https://user-images.githubusercontent.com/44739367/71916646-fb661d80-31b0-11ea-8bf0-fe068d6ad2f2.jpeg)
