@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hospital IK</string>
+    <string name="no">Nomer</string>
+    <string name="nama">Nama</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="address">Alamat</string>
+    <string name="save">Simpan</string>
+    <string name="update">Perbarui</string>
+    <string name="informasi">Aplikasi ini berisi daftar Pasien. Digunakan untuk pasien. Fitur yang dimiliki dapat menambah, memperbarui, dan menghapus data pasien</string>
+    <string name="owner">Dibuat Oleh : M.Q.A Naafi</string>
+    <string name="version">Versi : 1.1</string>
+    <string name="input">Tambah</string>
+    <string name="view">Lihat</string>
+    <string name="info">Info</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="profil">Profil</string>
+    <string name="pilihan">Pilihan</string>
+    <string name="view_data">Lihat Data</string>
+    <string name="update_data">Perbarui Data</string>
+    <string name="delete_data">Hapus Data</string>
+    <string name="name_p1">Nama</string>
+    <string name="name_p2">: Muhammad Qaadir An Naafi</string>
+    <string name="name_p3">: Gayuh Wahyu Oktavian P</string>
+    <string name="kelas">Kelas</string>
+    <string name="kelas2">: IK-2A</string>
+    <string name="nim">NIM</string>
+    <string name="nim2">: 3.34.18.0.17</string>
+    <string name="nim3">: 3.34.18.0.11</string>
+    <string name="email">Email</string>
+    <string name="email2">: qaadirannaafi@gmail.com</string>
+    <string name="email3">: gayuh2310@gmail.com</string>
+    <string name="tab_text1">Profil1</string>
+    <string name="tab_text2">Profil2</string>
+</resources>

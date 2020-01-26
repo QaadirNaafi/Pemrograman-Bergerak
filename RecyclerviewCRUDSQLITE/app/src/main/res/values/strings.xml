@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hospital IK</string>
+    <string name="no">Number</string>
+    <string name="nama">Name</string>
+    <string name="ttl">Date of Birth</string>
+    <string name="sex">Gender</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="informasi">This application contains a list of Patients. Used for patients. Owned features can add, update, and delete patient data</string>
+    <string name="owner">Created By : M.Q.A Naafi</string>
+    <string name="version">Version : 1.1</string>
+    <string name="input">Input</string>
+    <string name="view">View</string>
+    <string name="info">Info</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="profil">Profile</string>
+    <string name="pilihan">Choose</string>
+    <string name="view_data">View Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="name_p1">Name</string>
+    <string name="name_p2">: Muhammad Qaadir An Naafi</string>
+    <string name="name_p3">: Gayuh Wahyu Oktavian P</string>
+    <string name="kelas">Class</string>
+    <string name="kelas2">: IK-2A</string>
+    <string name="nim">NIM</string>
+    <string name="nim2">: 3.34.18.0.17</string>
+    <string name="nim3">: 3.34.18.0.11</string>
+    <string name="email">Email</string>
+    <string name="email2">: qaadirannaafi@gmail.com</string>
+    <string name="email3">: gayuh2310@gmail.com</string>
+    <string name="tab_text1">Profile1</string>
+    <string name="tab_text2">Profile2</string>
+
+</resources>
